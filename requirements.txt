@@ -10,3 +10,5 @@ pandas
     # via -r requirements.in
 numpy
     # via -r requirements.in
+flask
+	# via -r requirements.in
