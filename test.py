@@ -1,5 +1,4 @@
 import pyodbc
-import pandas as pd
 
 def fetch_data():                      
     conn = pyodbc.connect('DRIVER={SQL Server};SERVER=pocserver007.database.windows.net;DATABASE=POC;UID=demo;PWD=User@2021')
